@@ -1,22 +1,7 @@
 <h1 align="center">
-  <a href=""><img width="124" src="/logo.svg" alt="Obsidiosaurus"></a><br>
-  Obisidiosaurus
 </h1>
 
-_<p align="center">Obsidian + Docusaurus = Where your Obsidian notes meet the web</p>_
-
-<p align="center">
-  <a href=""><img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License&style=flat" /></a>
-  <a href=""><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" /></a>
-  </p>
-
-# 👋 Introduction
-
-Obsidiosaurus is a converter for [Obsidian](https://obsidian.md/) markdown notes to the static site builder [Docusaurus](https://docusaurus.io/)
-
-It allows for a better experience writing and maintaining the markdown files, since both share a lot of common features.
-
-🚧 CURRENTLY IN DEVELOPMENT! EXPECT BUGS
+_<p align="center"> Started as Fork of Obsidiosaurus, will have changes to make it nicer</p>_
 
 # 👀 Documentation
 
